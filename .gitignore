@@ -1,0 +1,8 @@
+*.c
+*.o
+*.cpp
+*.h
+*.hpp
+*.elf
+*.map
+*.hex
